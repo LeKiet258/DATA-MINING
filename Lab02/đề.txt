@@ -1,0 +1,14 @@
+Cài đặt và ứng dụng 2 thuật toán: Apriori và Tree Projection cho việc khai thác tập phổ biến trên các tập dữ liệu:
+
+foodmart
+retail
+mushrooms
+chess
+Ngôn ngữ thực hành: Julia. Các bạn có thể tải Datasets ở đây: https://www.philippe-fournier-viger.com/spmf/index.php?link=datasets.php
+
+Yêu cầu nộp bài: Folder bài tập được nén dưới dạng zip, đặt tên theo MSSV có cấu trúc như sau:
+- Folder source chứa source code và các file dữ liệu.
+- Folder report chứa báo cáo: mô tả các bước thực hiện, ý tưởng, điểm mạnh và yếu của 2 thuật toán, ứng dụng trong 
+tác vụ khai thác dữ liệu thực tế (điểm cộng nếu có demo).
+
+Nếu có thắc mắc gì thêm các bạn có thể gửi email cho mình: nnduc@fit.hcmus.edu.vn
